@@ -1,0 +1,77 @@
+[
+  {
+    "session_id": "9bead3f6-fa37-403f-b9ab-5baa20afd8e6",
+    "transcript_path": "C:\\Users\\JordanEhrig\\.claude\\projects\\C--Users-JordanEhrig-Documents-GitHub-ray\\9bead3f6-fa37-403f-b9ab-5baa20afd8e6.jsonl",
+    "cwd": "C:\\Users\\JordanEhrig\\Documents\\GitHub\\ray",
+    "permission_mode": "bypassPermissions",
+    "hook_event_name": "PreToolUse",
+    "tool_name": "Read",
+    "tool_input": {
+      "file_path": "C:\\Users\\JordanEhrig\\Documents\\GitHub\\ray\\README.rst"
+    },
+    "tool_use_id": "toolu_01YFS9M7TsnrRkLhQ4JuRfXi"
+  },
+  {
+    "session_id": "9bead3f6-fa37-403f-b9ab-5baa20afd8e6",
+    "transcript_path": "C:\\Users\\JordanEhrig\\.claude\\projects\\C--Users-JordanEhrig-Documents-GitHub-ray\\9bead3f6-fa37-403f-b9ab-5baa20afd8e6.jsonl",
+    "cwd": "C:\\Users\\JordanEhrig\\Documents\\GitHub\\ray",
+    "permission_mode": "bypassPermissions",
+    "hook_event_name": "PreToolUse",
+    "tool_name": "Glob",
+    "tool_input": {
+      "pattern": "**/DEVELOPMENT.md"
+    },
+    "tool_use_id": "toolu_016k9uAmbsFMT423yQ3vko4b"
+  },
+  {
+    "session_id": "9bead3f6-fa37-403f-b9ab-5baa20afd8e6",
+    "transcript_path": "C:\\Users\\JordanEhrig\\.claude\\projects\\C--Users-JordanEhrig-Documents-GitHub-ray\\9bead3f6-fa37-403f-b9ab-5baa20afd8e6.jsonl",
+    "cwd": "C:\\Users\\JordanEhrig\\Documents\\GitHub\\ray",
+    "permission_mode": "bypassPermissions",
+    "hook_event_name": "PreToolUse",
+    "tool_name": "Read",
+    "tool_input": {
+      "file_path": "C:\\Users\\JordanEhrig\\Documents\\GitHub\\ray\\python\\setup.py",
+      "limit": 50
+    },
+    "tool_use_id": "toolu_01Ea8K5XQGL4enEKUSDEzrsq"
+  },
+  {
+    "session_id": "9bead3f6-fa37-403f-b9ab-5baa20afd8e6",
+    "transcript_path": "C:\\Users\\JordanEhrig\\.claude\\projects\\C--Users-JordanEhrig-Documents-GitHub-ray\\9bead3f6-fa37-403f-b9ab-5baa20afd8e6.jsonl",
+    "cwd": "C:\\Users\\JordanEhrig\\Documents\\GitHub\\ray",
+    "permission_mode": "bypassPermissions",
+    "hook_event_name": "PreToolUse",
+    "tool_name": "Bash",
+    "tool_input": {
+      "command": "ls doc",
+      "description": "List documentation directory contents"
+    },
+    "tool_use_id": "toolu_01DgEuamd5Q1pa5p98w5HNwj"
+  },
+  {
+    "session_id": "9bead3f6-fa37-403f-b9ab-5baa20afd8e6",
+    "transcript_path": "C:\\Users\\JordanEhrig\\.claude\\projects\\C--Users-JordanEhrig-Documents-GitHub-ray\\9bead3f6-fa37-403f-b9ab-5baa20afd8e6.jsonl",
+    "cwd": "C:\\Users\\JordanEhrig\\Documents\\GitHub\\ray",
+    "permission_mode": "bypassPermissions",
+    "hook_event_name": "PreToolUse",
+    "tool_name": "WebFetch",
+    "tool_input": {
+      "url": "https://docs.ray.io/en/latest/ray-contribute/development.html",
+      "prompt": "Extract the steps for setting up a development environment for Ray, especially regarding Python virtual environment setup and building from source"
+    },
+    "tool_use_id": "toolu_01NRyzwdNB4yyAPoeR6Lafjo"
+  },
+  {
+    "session_id": "9bead3f6-fa37-403f-b9ab-5baa20afd8e6",
+    "transcript_path": "C:\\Users\\JordanEhrig\\.claude\\projects\\C--Users-JordanEhrig-Documents-GitHub-ray\\9bead3f6-fa37-403f-b9ab-5baa20afd8e6.jsonl",
+    "cwd": "C:\\Users\\JordanEhrig\\Documents\\GitHub\\ray",
+    "permission_mode": "bypassPermissions",
+    "hook_event_name": "PreToolUse",
+    "tool_name": "Read",
+    "tool_input": {
+      "file_path": "C:\\Users\\JordanEhrig\\Documents\\GitHub\\ray\\doc\\README.md"
+    },
+    "tool_use_id": "toolu_01VkQxedAPQz2EJBsQ18nfuV"
+  }
+]

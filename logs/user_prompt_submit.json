@@ -1,0 +1,26 @@
+[
+  {
+    "session_id": "9bead3f6-fa37-403f-b9ab-5baa20afd8e6",
+    "transcript_path": "C:\\Users\\JordanEhrig\\.claude\\projects\\C--Users-JordanEhrig-Documents-GitHub-ray\\9bead3f6-fa37-403f-b9ab-5baa20afd8e6.jsonl",
+    "cwd": "C:\\Users\\JordanEhrig\\Documents\\GitHub\\ray",
+    "permission_mode": "bypassPermissions",
+    "hook_event_name": "UserPromptSubmit",
+    "prompt": "what are the venv commands to get this started up?"
+  },
+  {
+    "session_id": "9bead3f6-fa37-403f-b9ab-5baa20afd8e6",
+    "transcript_path": "C:\\Users\\JordanEhrig\\.claude\\projects\\C--Users-JordanEhrig-Documents-GitHub-ray\\9bead3f6-fa37-403f-b9ab-5baa20afd8e6.jsonl",
+    "cwd": "C:\\Users\\JordanEhrig\\Documents\\GitHub\\ray",
+    "permission_mode": "bypassPermissions",
+    "hook_event_name": "UserPromptSubmit",
+    "prompt": "oh we are just in here, i can use regular package manager install"
+  },
+  {
+    "session_id": "9bead3f6-fa37-403f-b9ab-5baa20afd8e6",
+    "transcript_path": "C:\\Users\\JordanEhrig\\.claude\\projects\\C--Users-JordanEhrig-Documents-GitHub-ray\\9bead3f6-fa37-403f-b9ab-5baa20afd8e6.jsonl",
+    "cwd": "C:\\Users\\JordanEhrig\\Documents\\GitHub\\ray",
+    "permission_mode": "bypassPermissions",
+    "hook_event_name": "UserPromptSubmit",
+    "prompt": "[notice] To update, run: python.exe -m pip install --upgrade pip\n(venv) PS C:\\Users\\JordanEhrig\\Documents\\GitHub\\ray> ray start --address=\"192.168.50.22:6379\"\nMulti-node Ray clusters are not supported on Windows and OSX. Restart the Ray cluster with the environment variable `RAY_ENABLE_WINDOWS_OR_OSX_CLUSTER=1` to proceed anyway.\n(venv) PS C:\\Users\\JordanEhrig\\Documents\\GitHub\\ray>"
+  }
+]
